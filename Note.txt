@@ -1,0 +1,436 @@
+
+
+
+Numero di telefono tecnici lab informatioca Vercelli: 6402
+
+
+
+
+Domande
+1. ok sito careers.polito.it? https://careers.polito.it/default.aspx
+2. a me interessa ricercatore di tipo a, ma perchè non vedo bandi recenti
+3. si è aperto un mondo vedendo iris, ho visto che ci sono diversi campi da compilare per il CV vale la pena farlo o no serve?
+4. suggeriementi per presentarsi bene (pubblicazioni, premi, didattica, c'è altro?)
+5. cosa significa rapporti e delle relazioni di ricerca documentati e stabilitu con Università straniere
+6. come monitorare gli altri per capire come si e' messi?
+
+
+ruo.valutazione comparative
+
+
+
+--------------------
+
+https://www.youtube.com/watch?v=RH6IndsbcVw
+
+https://www.youtube.com/watch?v=LMb3iMfFy4E
+
+https://www.youtube.com/watch?v=r2rJrw9uYZc
+https://www.youtube.com/watch?v=VqFqvqwZ5Yk
+
+St Louis Blues W C Handy 1914 Tenor Sax
+https://www.youtube.com/watch?v=JpPThmv3LYo 
+
+https://www.youtube.com/watch?v=8jjwm4haxFw
+https://www.youtube.com/watch?v=4SYNZ_O8mZ0
+https://www.youtube.com/watch?v=GDuVzHWCcxI
+https://www.youtube.com/watch?v=vPjkr6WHbdo
+https://www.youtube.com/watch?v=DTorULGRFVE
+https://www.youtube.com/watch?v=hxddWsFWjh4
+https://www.youtube.com/watch?v=xdBBYd8BqS8
+https://www.youtube.com/watch?v=nrmRrr8EKFc
+
+Summertime George Gershwin 1935 Tenor Sax
+https://www.youtube.com/watch?v=2oVnfxNlLiQ
+
+Autumn Leaves Joseph Kosma 1947 Tenor Sax
+https://www.youtube.com/watch?v=lOdYeTgg8wg
+
+In A Sentimental Mood Duke Ellington 1935 Tenor Sax
+https://www.youtube.com/watch?v=93jGICGFXEA
+
+- 5000 carattari risposta al primo AC
+- suggerire piccole modifiche al paper e dico quali sono non solo nel paper
+- problemi grossi non si possono fare cose troppo grosse non si possono fare 
+non si puà fare major review dell'articolo
+sheparding? il 1AC controlla le modifiche che opzioni che si può attivare
+
+
+-------------------------------------------------------------------------------------
+- Israel Koren: Zoom is enough
+- Vojin Oklobdzija: 
+	Zoom the learning curve is smooth since it is very popular, 
+	Session chair as filter for questions
+- Arnaud Tisserand: 
+	Put the link for downloading the pdf of the papers on the website in order to make users
+	combine chat and live answe for questions
+- Javier Hormigo: Proposes CCC, but not proved
+- Stuart Oberman: gather.town for "poster"
+- Paolo Ienne: Use Zoom not as Webina since it is like a video to watch, it is better the modality ised for the today discussion
+
+
+
+-----------------------
+-----  ARITH 2021 -----
+-----------------------
+
+Script
+prendere il corpo della mail, prendere il pro
+page generator ci attacca il menu 
+menu.list-> per gestire il menu
+pagine tutte nello stesso formato 
+
+www.arithsyhmposium.org
+Aggiungere i link al nuovo sito web sul sito della community: http://www.arithsymposium.org/
+
+ARITH - WebSite
+Sito arith 2020 - http://arith2020.arithsymposium.org/
+Reference site: http://arith21.arithsymposium.org/
+previous conference: http://legacy.arithsymposium.org/index.html
+
+To upload files to arith2020.arithsymposium.org use a SFTP client (e.g. winscp for Windows) and use the following information:
+Server: thinlinc.compute.dtu.dk
+Username: albcan
+Path: /www/sites/arith2021.arithsymposium.org
+psw: Tx5Yd4Gg
+
+Tutorial HTML
+https://www.quackit.com/build-a-website/
+
+WORDPRESS
+user: alberto.cannavo
+psw: 4ss)Du6DPiUuNJQP
+Login link: https://www.arithsymposium.org/wp-login.php
+
+
+
+FTP Details - link: https://docs.google.com/document/d/1_JTerSIHWwzsj79LtAyV120-Fy3XEkj6nZwwlifQ7ug/edit
+Host:  video-ftp.computer.org
+User:  video-ftp.computer.org|arith-videos        <== Must include the "pipe" character |
+Pass:  IeeeCS!!
+Encryption:  Plain FTP
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+=RADQ(POTENZA(A3-A2,2)+ POTENZA(B3-B2,2)+ POTENZA(C3-C2,2))
+
+
+-----------------------
+-----   VR-INK   -----
+-----------------------
+
+VR-INK applications
+
+1. New Logitech VR Ink stylus - Top 5 use-cases for Maya modeling, rigging, and prototyping in VR 
+https://www.youtube.com/watch?v=-A9JDaT2quU
+Prototyping
+Rigging
+Skinning
+Modelling
+Sculpting
+
+2. VRED What's New 2020.3 Logitech VR Ink Pilot support - (https://www.youtube.com/watch?v=qlg-ZgHqyiY)
+Applicazione per ispezionare vettura
+
+3. 3DX World 2020 Mindesk + HTC Vive Pro + Logitech VR Ink + Solidworks
+https://www.youtube.com/watch?v=o9FpBBaWyXo
+Annotare dei CAD ed interagire con essi
+
+4. Varjo Unveils ‘Workspace’ User Interface, Exploring the Future of Always-on AR/VR Workflows
+https://www.roadtovr.com/varjo-workspace-ar-vr-xr-1/
+VR ink Sketchig in Mixed Reality
+
+5. Demo App: experience the Logitech VR Ink
+https://github.com/Logitech/vr_ink_sdk/tree/master/Documentation/DemoExperience
+Calibrating the space
+Writing & Drawing  Experience
+Markup Experience (Annotate 3D modoles, create virtual post-its)
+Sculpting
+
+
+
+
+
+-----------------------
+-----   TEXMAKER  -----
+-----------------------
+Opzioni/Configura TextMaker - Comandi - Bib(la)tex: bibtex %
+
+-----------------------
+-----    THESIS   -----
+-----------------------
+
+BUG
+
+
+LESSONS LEARN
+in which = whereby
+capable of verb+ing
+the aim of verb+ing
+also before the verb
+like -> such as
+takes advantage of
+As said -> As previously mentioned
+
+
+keyword:
+Computer Graphics, Human-Machine Interaction, Computer Animation, Virtual Reality, Augmented Reality, Human-Centered Design
+
+
+*Adalberto Simeone 
+Assistant Professor a KU Leuven
+adalberto.simeone@kuleuven.be, Belgium
+
+Filippo Stanco
+filippo.stanco@unict.it
+Professore Associato a UNICT, Italy
+
+Giuseppe Serra
+giuseppe.serra@uniud.it
+RTD/B a UNIUD, Italy
+
+*Bill Kapralos
+bill.kapralos@uoit.ca
+Associate Professor a UOIT Canada
+
+
+4) VALIDAZIONE DEL SUPERVISOR
+The candidate’s material uploaded in PDF/A version has to be validated by the
+supervisor who takes care of the anti-plagiarism check with the software Turnitin;
+the material will be available for the referees only after the supervisor’s validation.
+
+5) REVISORI
+The supervisor shall contact the two identified referees and ask them to assess
+the thesis. We suggest the supervisor to contact the referees by an informal
+contact to facilitate referees participation. For this purpose, the on line procedure
+will contact the referees only after 5 days from the automatic generation of the list.
+
+The referees have to accept explicitly the task within one week, engaging to
+assess the thesis within one month after they have received it through the web
+tool. In addition, the referees have to subscribe a Non-Disclosure Agreement that
+shall protect any confidential information relating to the thesis
+
+
+--- OPEN ---
+CHIEDERE
+- in HCI avevamo sbagliato a calcolare i p-value ho messo quelli indicati dal paper.
+- in TUI+VR (STAG2018) del vruse mettevamo solo gli aggregati mentre delle singole domande rimandavamo al paper che contiene una tabella con medie, e p-value. Ne deve fare una nuova versione nella tesi con tutte le stat richieste per le XX domande che ci sono o lascio cosi'?
+- Adal non mette effect size per i t-test lo mette solo dell'anova ha senso metterlo?
+
+- Frontespizio 
+	-- Verificare che i nomi nella commissione siano corretti)
+	-- Che data devo lasciare indicata
+
+
+--- GENERAL --
+* VSE accettato e paper su COMPUTER pubbhished
+* le figure siano riferite dopo il punto del testo in cui le menzioni e comunque, finiscano nella prima pagina successiva
+* Verifica di usare sempre lo stesso modo per indicare medie e varianze, non mu, sigma , SD, ecc.
+
+
+? Evita anche Figs. (la s, intendo), ripeti Fig. (cerca anche 'and~')[Done in chp1, chp2, chp3, chp4, chp5, chp6] -> IL COMMENTO VALE ANCHE PER TABLES, SECTIONS, CHAPTERS ?
+
+X togli i riferimenti/le note al source code anche quando è/era disponibile
+X Caricare questionari e aggiungere link
+X chiamale Fig. e Table, non Tbl.
+X Uniformare reference alle figure --> Fig.~\ref{XXX} [DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+	- Fig
+	- Fig\
+	- Fig \
+	- Fig~
+	- Fig ~  
+	- Fig.
+	- Fig .  
+	- Fig~\
+	- Fig ~\
+	- Fig~ \
+	- Fig ~ \
+	- Fig.\
+	- Fig .\
+	- Fig. \
+	- Fig . \ 
+	- Fig.~
+	- Fig .~
+	- Fig. ~
+	- Fig . ~  
+X Uniformare pvalue --> ($p = 0.xxxx$) [DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+	- ( $p
+	- ( $ p 
+	- ($ p
+	- (p
+	- ( p
+	- p=
+X Uniformare reference ai chapter --> Chapter~\ref{} [DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+	- Chapter\
+	- Chapter \	
+	- Chapter~ \
+	- Chapter ~ \
+	- Chapter ~\	
+X Uniformare reference alle sezioni --> Section~\ref{} [Done in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Uniformare nome del vive --> HTC Vive [DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Sostituire tutti i “ ” ’ --> `` '' '[DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Rimuovere tutti gli spazio~, la ~ deve essere attccata a quello che c'e' scritto prima [DONE in chp1, chp2, chp3, chp4, chp5, chp6]
+X Verificare che il \cite sia staccato dal testo [DONE chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Titoli solo iniziale maiuscolo il resto minuscolo [DONE in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Nomi comuni sezioni: Related works, Future works, Concluding remarks [Done in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Verificare le scritte dentro parentesi (prima e ultima lettea attaccata) --> (xxx x xx) ok [Done in chp1, chp2, chp3, chp4, chp5, chp6, chp7]
+X Evita : nelle didascalie delle figure. Metti dei . o ;. C'è già il : dopo Figura. [DONE in chp1, chp2, chp3, chp4, chp6, chp7]
+X Ed evita anche lunghe didascalie nelle sotto-figure. Guarda come ho spostato qui (cap.5) nelle figure dei risultati le sotto-didascalie nella didascalia usando (1), (2) [DONE in chp1, chp2, chp3, chp4, chp6, chp7]
+
+? Nomi delle metriche che definiscono Annoyance costs per l'automatic mapping devono andare nelle abbreviazioni? e.g. Component Type (CT) -> NO
+? le sigle che definisco io (es. quelle per definire i sistemi usati nei test o le categorie di utenti) -> NO
+? il paper e' stato accettato, aggiungere ref. e modificare il testo.
+
+--- CHAPTER 2 ---
+
+
+--- CHAPTER 3 ---
+X Occhio anche alle sezioni nel quarto livello. I titoli in corsivo semplice sono adatti? 
+Ma in generale, verifica che il font / lo stile utilizzato per i vari livelli sia corretto / omogeneo quando smetti di usare le \section di latex ed usi italico, grassetto, \newline, ecc. 
+Nel capitolo e nei capitoli --> risolto con \paragraph{}
+X Sezione future works della prima parte, tante ripetizioni ...  users, participants, tutti che suggeriscono, a volte anche cose ripetute che vengono dai due lavori
+X Sei sicuro che la roba in questa intro non sia troppo ripetuta? Posing character through 3D sketching--> riscritta leggeremnte taglindo parti ripetute
+X Anche in questo ultima parte del capitolo, occhio a come gestisci le sotto-sezioni, reali (latex) o fittizie: Onestamente, titoli di lavori come titoli di sezione con ref fanno pena (es. The Line of Action: an Intuitive Interface for Expressive Character Posing) 
+Fai un classico state of the art, senza ste divisioni. Un po' l'ho già fatto io riscrivendo il testo li --> fatto così
+X insert a keyframe to record the orientation of all the bones in the character's skeleton for the current frame.  MANCA IL PULSANTE
+X Nelle conclusioni del capitolo 3 non parli del lavori di HK. Un paio di frasi devi metterle in propsettiva, anche se non hai risultati. --> scritte conclusioni 
+
+--- CHAPTER 4 ---
+*Video da caricare su dropbox e da mettere il link sulla tesi in \subsubsection{Usage Scenario} di chapter4.tex
+
+--- CHAPTER 5 ---
+X occhio che hai i nomi in italiano nella figura con i divani ...
+
+
+--- CHAPTER 6 ---
+--- CHAPTER 7 ---
+
+
+
+
+
+-----------------------
+-----    PAPERs   -----
+-----------------------
+
+- 360proto: Making Interactive Virtual Reality & Augmented Reality Prototypes from Paper
+- Mixing realities for sketch retrieval in Virtual Reality (gabriele)
+- https://purehost.bath.ac.uk/ws/portalfiles/portal/195712556/SCA.pdf
+
+
+-----------------------
+-----  IOS(U)ONO  -----
+-----------------------
+
+Mostra - Evento - Opuscolo
+
+- Prima decina di maggio (Non oltre al 10 maggio) 
+- Percorsi per le competenze trasversali e l'orientamento: nuova denominazione delle attività per l'alternanza scuola lavoro
+- Per riutilizzo all'esame
+	Evento sarà costituito dalle seguenti sezioni: 
+	- parte scientifica (); 
+	- parte dedicata ai ragazzi (dove approfondiscono delgi argomenti es. forma sonata); 
+	- parte finale in musica.
+
+- Il lavoro fatto in questi 3 anni si è intrecciato in maniera forte con quello che hanno studiato
+- Studieranno dei passaggi sul 4 movimento della nona
+- Forma simbolica della sinfonia è un luogo di inclusione. 
+Include temi melodici e ritmici presistenti, il compositire li prende non solo li rielabora ma li incormpira in un contesto più grande. 
+Stessa cosa che viene fatta in orchestra e nelle attività di musicoterapia.
+
+
+Mandare lo scheletro di un multimedile per far comunicare la sinfonia di Dvorack
+
+
+SOLUZIONI
+WEBWX - https://www.webex.com/pricing/index.html
+
+GSUITE
+- Ma richiede la registrazione a techsoup
+- Possiami creare il dominio qui - https://www.register.it/
+
+-----------------------------------------------------------------
+
+
+
+%Latin Order was used to choose the scenario to start and continue with, to reduce possible bias or learning effects. 
+
+
+
+https://www.youtube.com/watch?v=tFOkg8umbUc
+
+
+
+FOR FUTURE
+
+https://blender.studio/
+https://studios.disneyresearch.com/internship-program/
+
+
+---------------------------------------------
+RESOURCES
+
+
+Tutorial
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_types_of_learning.htm
+
+
+Tutorial Unity3D
+https://learn.unity.com/tutorial/ending-the-game?projectId=5caf65ddedbc2a08d53c7acb#
+
+Link utili
+https://blender.stackexchange.com/questions/57306/how-to-create-a-custom-ui
+https://software.intel.com/en-us/articles/guidelines-for-immersive-virtual-reality-experiences
+https://archive.blender.org/wiki/index.php/Dev:Py/Scripts/Cookbook/Code_snippets/Interface/
+
+---------------------------------------------
+
+My pc VR ready
+Notebook DELL Alienware m15
+Intel Core i7-8750H, CPU @2.20Ghz, 8 GB RAM, scheda grafica Nvidia GeForce GTX 1060   
+
+---------------------------------------------
+HONG KONG
+
+-Puoi leggere info a https://www.immd.gov.hk/eng/index.html
+https://www.immd.gov.hk/eng/services/visas/training.html#firstTab
+
+-Human Resource of HKU
+http://www.hr.hku.hk/
+
+USEFUL INFORMATION FOR NEW STAFF
+http://www.hr.hku.hk/apptunit/Useful_Information.html
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exporting Animations from Blender to X3D
+https://castle-engine.io/creating_data_blender.php
+
+
+HOW TO USE MIXAMO FOR CHARACTER ANIMATION IN UNITY
+Adobe Fuse a pagamento o MakeHumans per creare il modello riggato
+Si importa il modello su mixamo
+Si sceglie una delle animazioni disponibili
+Eventualmente si può modificare leggermente (tipo velocità, in place o no, trim, character-arm space)
+Si scaria con formato FBX for Unity, con skin se serve anche il modello, se invece si vogliono usare animazioni aggiuntive ad un rig già importato in unity anche senza skin
+In unity si importa l'fbx come humanoid, e si iniziano a sistemare i materiali (es tramite https://forum.unity.com/threads/script-for-importing-adobe-fuse-character-model-into-unity-fixes-materials.482093/)
+
