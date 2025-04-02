@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fixed-term tenure-track assistant professor at <a href='https://www.polito.it/en'>Politecnico di Torino</a>
+subtitle: Fixed-term tenure-track assistant professor · <a href='https://www.polito.it/en'>Politecnico di Torino</a>
 
 profile:
   align: right
