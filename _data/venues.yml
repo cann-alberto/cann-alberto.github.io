@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TVCG":
+  url: https://www.computer.org/csdl/journal/tg
+  color: "#14303e"
+
+"IEEEVR":
+  url: https://ieeevr.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"CHI":
+  url: https://chi.acm.org/chi-series/
   color: "#009f36"
