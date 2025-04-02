@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id: 99659309146 # your dl.acm.org/profile/id
+acm_id: # your dl.acm.org/profile/id
 blogger_url:  # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: https://dblp.org/pid/198/4198.html # your DBLP profile url
@@ -79,7 +79,7 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: cann-alberto # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: 37086024693 # your ieeexplore.ieee.org/author/id
+ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -94,7 +94,7 @@ pinterest_id: # your pinterest id
 publons_id: 2249500 # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: P-3NxFMAAAAJ&hl # your Google Scholar ID
 scopus_id: 57194155419 # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -188,12 +188,12 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
